@@ -1,0 +1,2 @@
+# XinzBot-main
+SINGLE-BOT
