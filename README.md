@@ -40,16 +40,18 @@
 ```bash
 git clone http://Github.com/SINGLE-BOT/XinzBot-main
 cd XinzBot
-bash install.sh
 node main
 ```
 ## For Termux
 ```bash
 termux-setup-storage
 apt update && apt upgrade
+apt install git
+apt install ffmpeg
+apt inatall imagemagick
 git clone http://Github.com/SINGLE-BOT/XinzBot-main
 cd XinzBot
-bash install.sh
+npm install
 node main
 ```
 
@@ -58,7 +60,7 @@ node main
 apt install nodejs git ffmpeg libwebp imagemagick
 git clone http://Github.com/SINGLE-BOT/XinzBot-main
 cd XinzBot
-bash install.sh
+npm install
 node main
 ```
 
