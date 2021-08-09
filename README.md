@@ -38,28 +38,27 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/Xinz-Team/XinzBot.git
+git clone http://Github.com/SINGLE-BOT/XinzBot-main
 cd XinzBot
-npm install
+bash install.sh
 node main
 ```
 ## For Termux
 ```bash
 termux-setup-storage
 apt update && apt upgrade
-pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
+git clone http://Github.com/SINGLE-BOT/XinzBot-main
 cd XinzBot
-npm install
+bash install.sh
 node main
 ```
 
 ## For VPS
 ```bash
 apt install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
+git clone http://Github.com/SINGLE-BOT/XinzBot-main
 cd XinzBot
-npm install
+bash install.sh
 node main
 ```
 
